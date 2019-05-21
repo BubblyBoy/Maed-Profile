@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
         centerTitle: true,
         elevation: 0,
         backgroundColor: Colors.white,
-        title: Text('Maed Tech', style: TextStyle(color: Colors.black, fontWeight: FontWeight.w200),),
+        title: Text('MaedTech', style: TextStyle(color: Colors.black, fontWeight: FontWeight.w200),),
             leading: IconButton(icon: Icon(Icons.arrow_back_ios, color: Colors.black,), onPressed: (){}),
         actions: <Widget>[
           Padding(
